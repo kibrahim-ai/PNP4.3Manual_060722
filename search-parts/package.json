@@ -48,7 +48,7 @@
         "immutability-helper": "3.1.1",
         "jspath": "^0.4.0",
         "lit-html": "1.4.1",
-        "moment": "2.29.1",
+        "moment": "2.29.2",
         "office-ui-fabric-react": "7.156.0",
         "react": "16.9.0",
         "react-ace": "5.8.0",
